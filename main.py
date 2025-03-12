@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-@Time ： 2023/6/21 21:56
-@Auth ： whale
-@File ：main.py.py
-@IDE ：PyCharm
-"""
+
 
 import argparse
 import pickle
