@@ -15,7 +15,7 @@ def set_random_seed(seed):
     np.random.seed(seed)
     os.environ['PYTHONHASHSEED'] = str(seed)
 
-set_random_seed(2023)
+set_random_seed(2024)
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--dataset', default='sample', help='dataset name: diginetica/yoochoose1_4/yoochoose1_64/sample')
