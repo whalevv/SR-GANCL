@@ -116,4 +116,4 @@ class Data(Dataset):
 
     def __len__(self):
         return self.length
-# 38.21  17.87
+
