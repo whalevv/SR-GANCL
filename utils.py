@@ -1,10 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-@Time ： 2023/6/21 21:57
-@Auth ： whale
-@File ：utils.py.py
-@IDE ：PyCharm
-"""
+
 import numpy as np
 import torch
 from torch.utils.data import Dataset
